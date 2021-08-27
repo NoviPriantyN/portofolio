@@ -1,0 +1,67 @@
+
+.one{
+    background:rgb(117, 131, 131);
+    background-size: 100%;
+    padding: 100px;
+}
+.onetulisan{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.onetulisan img{
+    width: 300px;
+    margin-left: 50%;
+}
+.onesosmed{
+    margin-left: 20%;
+}
+.skill{
+    padding: 100px;
+}
+.skillone{
+    text-align: center;
+}
+.skilltwo{
+    margin-top: 1%;
+    align-content: center;
+    text-align: center;
+}
+.skilltwo .skillcontainer{
+    margin-top: 3%;
+}
+.skilltwo .border{
+    border-radius: 15px 15px 15px 15px;
+}
+.organisasi{
+    background: rgb(194, 205, 211);
+    padding: 100px;
+}
+.organisasione{
+    margin-top: 3%;
+    text-align: center;
+}
+.organisasitwo{
+    margin-top: 3%;
+    align-content: center;
+    text-align: center;
+}
+.organisasitwo .border{
+    border-radius: 15px 15px 15px 15px;
+}
+.kerja{
+    padding: 100px;
+}
+.kerjaone{
+    margin-top: 3%;
+    text-align: center;
+}
+.kerjatwo{
+    margin-top: 1%;
+    align-content: center;
+    text-align: center;
+}
+.kerjatwo .border {
+    background-color:rgb(194, 205, 211);
+    border-radius: 15px 15px 15px 15px;
+}
+
